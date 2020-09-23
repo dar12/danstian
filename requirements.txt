@@ -1,6 +1,0 @@
-asyncio
-colorama
-telethon
-requests
-bs4
-async_generator
